@@ -1,0 +1,19 @@
+.boxClass {
+	display: inline-block;
+	width: 6.25%;
+	background-color: blue;
+
+}
+
+#container {
+	width: 500px;
+	height: 500px;
+	display: block;	
+	margin: auto;	
+	border: 5px solid goldenrod;
+	background-color: lightgreen;
+	border-radius: 10px,10px,auto;
+}
+
+#reset {
+	width: 500px;
